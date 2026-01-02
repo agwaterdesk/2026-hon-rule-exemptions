@@ -2,3 +2,13 @@
 @use "base/base";
 @use "base/typography";
 @use "base/utilities";
+
+/*=============================================
+=            Map Marker Colors              =
+=============================================*/
+:root {
+    --marker-color: #ff8800;
+
+    --marker-fill: #ffffff;
+
+}

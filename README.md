@@ -1,4 +1,4 @@
-# AG & Water Desk Svelte Template
+# 2026-hon-rule-exemptions | AG & Water Desk Svelte Template
 
 A template for creating interactive data visualizations and stories for the AG & Water Desk.
 
