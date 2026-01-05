@@ -35,15 +35,14 @@
   </h1>
 
   <p class="dek">
-    The majority of the chemical manufacturing plants exempted from complying with
-    updated pollution standards — also known as the HON rule — under President
-    Trump's July proclamation are located within the Mississippi River Basin.
+    A July 2025 proclamation from President Trump exempted dozens of chemical
+    plants from complying with stricter pollution standards passed under
+    President Biden. Most of those facilities are in the Mississippi River
+    Basin.
   </p>
   <p class="sr-only">
     A map showing chemical manufacturing facilities exempted from the HON rule
-    within the Mississippi/Atchafalaya River Basin. Facilities inside the basin
-    are shown with solid green markers, while facilities outside the basin are
-    shown with subdued markers.
+    within the Mississippi/Atchafalaya River Basin.
   </p>
 
   <Legend />
@@ -53,7 +52,10 @@
 
   {#if includeCredit}
     <div class="credit">
-      Data: <a href="https://www.edf.org/maps/epa-pollution-pass/" target="_blank">Environmental Defense Fund</a>; Graphic by Jared Whalen /
+      Data: <a
+        href="https://www.edf.org/maps/epa-pollution-pass/"
+        target="_blank">Environmental Defense Fund</a
+      >; Graphic by Jared Whalen /
       <a target="_blank" href="https://agwaterdesk.org/">Ag & Water Desk</a>
     </div>
   {/if}
