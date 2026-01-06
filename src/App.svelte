@@ -31,17 +31,18 @@
 <!-- Outer div must have class 'chart-container' don't change -->
 <div class="chart-container">
   <h1 class="headline">
-    Most exempted chemical plants are located in the Mississippi River Basin
+    Most chemical plants exempted from the HON rule are in the Mississippi River
+    Basin
   </h1>
 
   <p class="dek">
-    A July 2025 proclamation from President Trump exempted dozens of chemical
-    plants from complying with stricter pollution standards passed under
-    President Biden. Most of those facilities are in the Mississippi River
+    A July 2025 proclamation from President Trump temporarily exempted dozens of
+    chemical plants from complying with stricter pollution standards finalized
+    under President Biden. Most of those facilities are in the Mississippi River
     Basin.
   </p>
   <p class="sr-only">
-    A map showing chemical manufacturing facilities exempted from the HON rule
+    A map showing chemical manufacturing facilities temporarily exempted from the HON rule
     within the Mississippi/Atchafalaya River Basin.
   </p>
 
